@@ -26,3 +26,10 @@ h1, h2 {
 .buttonPurple {background-color: rgb(111, 0, 255); }
 .buttonPink {background-color: rgb(225, 0, 255); }
 .buttonakuayesil {background-color: rgb(0, 255, 170); }
+
+.center {
+  margin: auto;
+  width: 50%;
+   text-align: center;
+  padding: 10px;
+}
